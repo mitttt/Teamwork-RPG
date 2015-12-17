@@ -1,2 +1,3 @@
 c:\users\vallez\documents\visual studio 2012\Projects\TeamworkRPG\TeamworkRPG\bin\Debug\TeamworkRPG.exe.config
 D:\TEAMWORK PROJECT RPG\Teamwork-RPG\TeamworkRPG\bin\Debug\TeamworkRPG.exe.config
+D:\TEAMWORK PROJECT\Teamwork-RPG\TeamworkRPG\bin\Debug\TeamworkRPG.exe.config
