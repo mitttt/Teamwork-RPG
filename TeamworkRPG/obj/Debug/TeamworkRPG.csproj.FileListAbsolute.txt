@@ -1,3 +1,12 @@
 c:\users\vallez\documents\visual studio 2012\Projects\TeamworkRPG\TeamworkRPG\bin\Debug\TeamworkRPG.exe.config
 D:\TEAMWORK PROJECT RPG\Teamwork-RPG\TeamworkRPG\bin\Debug\TeamworkRPG.exe.config
+<<<<<<< HEAD
 D:\TEAMWORK PROJECT\Teamwork-RPG\TeamworkRPG\bin\Debug\TeamworkRPG.exe.config
+=======
+D:\Teamwork-RPG\TeamworkRPG\bin\Debug\TeamworkRPG.exe.config
+D:\Teamwork-RPG\TeamworkRPG\bin\Debug\TeamworkRPG.exe
+D:\Teamwork-RPG\TeamworkRPG\bin\Debug\TeamworkRPG.pdb
+D:\Teamwork-RPG\TeamworkRPG\obj\Debug\TeamworkRPG.csprojResolveAssemblyReference.cache
+D:\Teamwork-RPG\TeamworkRPG\obj\Debug\TeamworkRPG.exe
+D:\Teamwork-RPG\TeamworkRPG\obj\Debug\TeamworkRPG.pdb
+>>>>>>> 558c7fe81cef3769d045d2ea610fff21276d77e1
