@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 /* This is the initial state of the project of team Dezda */
 
-namespace TeamworkRPG
+using TeamworkRPG.Player;
+
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            
-        }
+        string name = Console.ReadLine();
+        Player p = new Player(name);
     }
 }
+
